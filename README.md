@@ -9,3 +9,5 @@ hw2: principal component analysis to classify robot motion
 hw3: supervised machine learning with pca on MNIST
 
 hw4: unsupervised machine learning on FashionMNSIT
+
+hw5: combination of techniques on new dataset (SEVIR, to categorize thunderstorms / lightning flashes)
